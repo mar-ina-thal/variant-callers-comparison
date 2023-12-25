@@ -1,4 +1,4 @@
-# variant_callers_comparison
+# Variant_callers_comparison
 The following code was used for the  coursework of "Data Science & Information Technologies masters course: "Algorithms in molecular biology" of  at the National and Kapodistrian University of Athens (NKUA) during the Spring 2023 semester 
 ## The folder contains:
     1.Final report pdf
